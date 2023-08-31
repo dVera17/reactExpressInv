@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import ChatRoom from './chatRoom';
+import ChatRoom from './ChatRoom';
 
 export default function App() {
     const [roomId, setRoomId] = useState('general');
