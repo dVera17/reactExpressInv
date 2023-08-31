@@ -110,4 +110,4 @@ Si implementas `componentDidMount`, generalmente debes implementar otros método
 
 ### Puedes usar este diagrama de ciclo de vida como una hoja de referencia
 
-[![Diagrama_ciclos_de_vida](assets\ciclos_diagram.png)](assets\ciclos_diagram.png)
+[![Diagrama_ciclos_de_vida](assets/ciclos_diagram.png)](assets/ciclos_diagram.png)
